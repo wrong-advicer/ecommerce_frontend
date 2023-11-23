@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.divs{
+    width: 1280px;
+    height: 50px;
+    position: fixed;
+    background-color: white ;
+}
+li{
+    display: inline;
+    padding-right: 10px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.div1{
+    margin-top: -45px;
+    text-align: right;  
+    padding-top: 8px; 
+  
+}
+.set1{
+    margin-left: 40px;
+    
+}
+.home{
+    padding-left: 330px;
+    margin-top: -360px;
+}
